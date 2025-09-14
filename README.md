@@ -40,9 +40,9 @@ Flutter实现的多端局域网文本共享，通过一个python脚本服务端�
 
 1. 确保服务端内已安装python
 2. 于clipboard_config.json中填写密码和未被占用的端口号
-3. '''pip install -r requirements.txt'''
-4. '''python clipboard_server.py'''
-ps: win端点击runOnWindows.bat即可
+3. ```pip install -r requirements.txt```
+4. ```python clipboard_server.py```
+5.  ps: win端点击runOnWindows.bat即可
 
 
 ### To Do?
