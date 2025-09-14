@@ -45,21 +45,11 @@ Flutter实现的多端局域网文本共享，通过一个python脚本服务端�
 ps: win端点击runOnWindows.bat即可
 
 
-### 文件目录说明
-eg:
-
-```
-NULL
-
-```
 ### To Do?
 1. 自动读取写入不同端设备的剪贴板
 2. 传输粘贴的图片
 3. 编译Linux端release包
 
-### 版本控制
-
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
 ### 作者
 
