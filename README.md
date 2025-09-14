@@ -18,7 +18,7 @@ Flutter实现的多端局域网文本共享，通过一个python脚本服务端�
 
 <p align="center">
   <a href="https://github.com/AHPxLIS/LanClipboard">
-    <img src="assests/icons/app_icon.png" alt="Logo" width="80" height="80">
+    <img src="assets/icons/app_icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">局域网剪贴板</h3>
@@ -74,6 +74,7 @@ ahpxlis@126.com
 
 <!-- links -->
 [your-project-path]:AHPxLIS/LanClipboard
+[contributors-shield]: https://img.shields.io/github/contributors/AHPxLIS/LanClipboard.svg?style=flat-square
 [contributors-url]: https://github.com/AHPxLIS/LanClipboard/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AHPxLIS/LanClipboard.svg?style=flat-square
 [forks-url]: https://github.com/AHPxLIS/LanClipboard/network/members
